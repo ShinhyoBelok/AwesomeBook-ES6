@@ -77,7 +77,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[You can see our live demo](https://m1rn4.github.io/awesome-book/)
+[You can see our live demo](https://shinhyobelok.github.io/awesomeBook-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +120,7 @@ To run the project, execute the following command:
 
 You can deploy this project using:
 
-[Deploy](https://m1rn4.github.io/awesome-book/)
+[Deploy](https://shinhyobelok.github.io/awesomeBook-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
